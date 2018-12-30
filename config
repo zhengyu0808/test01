@@ -1,2 +1,3 @@
 nub = 23
+print(nub)
 a =34
